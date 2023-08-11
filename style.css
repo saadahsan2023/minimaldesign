@@ -1,0 +1,223 @@
+*{
+    /* box-sizing: border-box; */
+    margin: 0px;
+    padding: 0px;
+font-family: sans-serif;}
+
+
+.navbar{
+    background-color:#fff!important;
+    height:70px;
+   
+}
+.nav-link{
+    font-weight: bold;
+    color: rgb(8, 8, 8) !important;
+    /* text-shadow: 2px 2px 7px rgb(106, 109, 106); */
+    font-size: 17px;
+   
+    
+}
+#saadali{
+    width: 60px;
+    height: 60px;
+    margin-left: 20%;
+   
+    
+    
+}
+/* .navbar-brand{
+    font-weight: bold;
+    font-size:35px;
+} */
+
+.nav-link:hover{
+    text-decoration:underline;
+    transition: 3s ;
+   
+    
+}
+#container-fluid{
+    width:100%;
+    height:80vh;
+   background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url(/img/lance-anderson-QdAAasrZhdk-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+   
+
+}
+.heading{
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top: 10%;
+    padding-left: 7%;
+}
+.para{
+    color: #fff;
+    padding-left: 7%;
+
+}
+ /* nav ul li::after{
+    content: '';
+    height: 3px;
+    width: 100px;
+    position: absolute;
+    background: #009688;
+    left: 0;
+    bottom: 0;
+   
+
+
+} */
+.headings{
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top: 10%;
+    padding-left: 7%;
+
+}
+.paras{
+    font-family: sans-serif;
+    font-weight: bold;
+    
+    padding-left: 7%;
+
+}
+.card{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 22%;
+    border: none;
+    box-shadow: 1px 1px 10px rgb(29, 28, 28);
+    
+   
+
+}
+.card-title{
+    font-weight: BOLD;
+}
+.btn{
+    background-color: black;
+    border: none;
+    font-size: 14px;
+    font-family:sans-serif;
+}
+
+   
+#container-fluids{
+    width:100%;
+    height:80vh;
+   background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url(/img/pexels-alex-staudinger-1732414.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: 7%;
+
+}
+.headingss{
+    margin-top: 7%;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#container-fluidess{
+    background-color: rgb(2, 183, 255);
+    height: 90px;
+    /* width: 100% !important; */
+    text-align: center;
+    
+    
+}
+h6{
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-top: 43px;
+    display: inline-block;
+    
+}
+button{
+    border: none;
+    padding: 4px;
+    justify-content: center;
+    display: block;
+    display: inline;
+    /* font-weight: bold; */
+    border: 1px solid rgb(112, 109, 109);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+
+
+#saadahsan{
+    margin-top: 5%;
+    margin-right: 10% !important;
+    justify-content: space-between;
+    margin-bottom: 4%;
+
+}
+.abbas{
+    border: 2px solid black;
+    margin: 0px;
+    padding: 0px;
+    /* width: 100%; */
+    height: 100px;
+}
+#container-fluidesss{
+    background-color: rgb(90, 88, 88);
+    height: 150px;
+    width: 100%;
+   
+}
+#saadalis{
+    width: 70px;
+    height: 70px;
+    margin-left: 50%;
+    padding-top: 10px;
+   
+
+
+}
+#mainmain{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    bottom: 36px;
+    
+    
+    
+}
+
+
+
+li{
+    display: inline;
+    text-decoration: none;
+    
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    
+    padding: 8px;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin: 10px;
+
+}
+a:hover{
+    color: black;
+}
+.card:hover{
+    box-shadow: 1px 1px 8px black;
+
+}
+
+    
+
+
+
+
+
